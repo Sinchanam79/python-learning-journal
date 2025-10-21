@@ -1,2 +1,2 @@
-# python-learning-journal
+# Python
 Day 1 : Variables
